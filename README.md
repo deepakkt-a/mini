@@ -2,6 +2,8 @@
 
 # MINI
 
+Sample commit
+
 This is cool! Cooler!!
 More cool edits.
 
